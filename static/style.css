@@ -1,0 +1,25 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+.list-group-item {
+    margin-bottom: 10px;
+    border-radius: 8px;
+}
+
+.list-group-item-success {
+    color: #155724;
+}
+
+.list-group-item-warning {
+    color: #856404;
+}
+
+.btn {
+    margin-left: 5px;
+}
